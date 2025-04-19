@@ -26,13 +26,6 @@ Faucet
 Running the demo
 To run the demo follow these steps:
 
-Clone the project with the code below.
-
-# Make sure you have the above prerequisites installed already!
-git clone https://github.com/Nandini7876 PROJECT_NAME
-cd PROJECT_NAME # Navigate to the new folder.
-yarn install # Installs all the dependencies.
-Create a CometChat project, copy and paste your key in the spaces below.
 
 Update the .env file with the following details.
 
